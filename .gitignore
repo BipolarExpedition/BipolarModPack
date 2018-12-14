@@ -1,0 +1,16 @@
+**/*.log
+BipolarExpedition\.minecraft\saves
+BipolarExpedition\.minecraft\world
+BipolarExpedition\.minecraft\backups
+BipolarExpedition\.minecraft\crash-reports
+BipolarExpedition\.minecraft\discordsuite
+BipolarExpedition\.minecraft\logs
+BipolarExpedition\.minecraft\resourcepacks
+BipolarExpedition\.minecraft\screenshots
+BipolarExpedition\.minecraft\server-resource-packs
+BipolarExpedition\.minecraft\shaderpacks
+BipolarExpedition\.minecraft\texturepacks
+BipolarExpedition\.minecraft\TombManyGraves
+BipolarExpedition\.minecraft\*.logs
+BipolarExpedition\.minecraft\.*dll
+BipolarExpedition\.minecraft\journeymap

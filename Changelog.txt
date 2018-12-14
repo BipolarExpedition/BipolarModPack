@@ -1,0 +1,10 @@
+Changelog
+=========
+
+* 1.2.2 - Started keeping a changelog. Additions and improved folder layout.
+  * Added recipes to the carpenter and fermenter.
+  * Added recipes for carpenter and fermenter
+  * Adjusted stack sizes of snowballs and eggs
+  * Added clientside mod VanillaFix for performance improvement
+  * Added mod Computronics for OpenComputers
+  * Added mod ExtendedDays. Days are now 60min long; 40min day, 20min night.
