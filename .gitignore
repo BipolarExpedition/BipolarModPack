@@ -11,6 +11,15 @@ BipolarExpedition\.minecraft\server-resource-packs
 BipolarExpedition\.minecraft\shaderpacks
 BipolarExpedition\.minecraft\texturepacks
 BipolarExpedition\.minecraft\TombManyGraves
+BipolarExpedition\.minecraft\plugins
 BipolarExpedition\.minecraft\*.logs
 BipolarExpedition\.minecraft\.*dll
 BipolarExpedition\.minecraft\journeymap
+BipolarExpedition\.minecraft\config\shadowfacts\DiscordChat
+BipolarExpedition\.minecraft\server.properties
+BipolarExpedition\.minecraft\usercache.json
+BipolarExpedition\.minecraft\usernamecache.json
+BipolarExpedition\.minecraft\whitelist.json
+BipolarExpedition\.minecraft\banned-ips.json
+BipolarExpedition\.minecraft\banned-players.json
+BipolarExpedition\.minecraft\ops.json
