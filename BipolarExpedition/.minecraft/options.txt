@@ -190,6 +190,12 @@ key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
 key_Options Gui:23
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_key.clipboardPaste:210
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:34
 key_Mekanism Feet Mode Switch:35
@@ -203,7 +209,6 @@ key_keybinding.extrabitmanipulation.bitmapping:19
 key_keybinding.extrabitmanipulation.shift:0
 key_keybinding.extrabitmanipulation.control:0
 key_keybinding.extrabitmanipulation.alt:45
-key_key.clipboardPaste:210
 key_ir_keys.increase_throttle:72
 key_ir_keys.decrease_throttle:80
 key_ir_keys.zero_throttle:76
@@ -224,6 +229,9 @@ key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
 key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
+key_key.trashslot.toggle:20
+key_key.trashslot.delete:211
+key_key.trashslot.deleteAll:211:SHIFT
 key_key.control:29
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12

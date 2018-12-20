@@ -1,6 +1,13 @@
-Changelog
-=========
-
+### Changelog
+* 1.3.0 - Updates, Recipes and Fonts
+  * Added SmoothFont to optional client mods
+  * Added recipes for making coal coke dust
+  * Added/configured Electortine as a type of blue dye
+  * Added Pam's Harvestcraft items to IE fermenter and Mekanism crusher
+  * Readded The One Probe, WAILA/HWYLA is still installed but disabled by default
+  * Updated: DoggyTalents, OpenComputers, Tinkers Construct, Chisels&Bits
+  * Updated: foamfix, MineColonies, KeyWizzard, Iron Chests, Immersive Engineering
+  * Disabled Mekanism voice server for walkie talkies.
 * 1.2.2 - Started keeping a changelog. Additions and improved folder layout.
   * Added recipes to the carpenter and fermenter.
   * Added recipes for carpenter and fermenter
