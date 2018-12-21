@@ -11,6 +11,10 @@ The simplest way of installing this modpack is with [MultiMC](https://multimc.or
 
 
 ### Changelog
+* 1.3.1 - Rollback minecolonies
+  * Reverted minecolonies to previous version, existing colonies did not like the upgrade
+  * Fixed config files
+  * Moved VanillaFix back to optional_clientMods where it was supposed to be
 * 1.3.0 - Updates, Recipes and Fonts
   * Added SmoothFont to optional client mods
   * Added recipes for making coal coke dust
